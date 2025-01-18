@@ -169,7 +169,7 @@ def main():
     {Color.RESET}"""
     print(banner)
     print(f"{Color.MAGENTA}Created by Notbanzz12{Color.RESET}")
-    print(f"{Color.BLUE}https://github.com/Notbanzz12{Color.RESET}\n")
+    print(f"{Color.BLUE}https://github.com/Notbazz12{Color.RESET}\n")
 
     parser = argparse.ArgumentParser(description="Scan for open common ports and potential vulnerabilities.",
     epilog='Example usage: python3 openports.py <targets> -t 3 -o json -f scan_results.json')
