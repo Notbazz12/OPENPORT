@@ -48,9 +48,6 @@ Opciones:
 - `-m, --max-threads`: Número máximo de hilos a usar (por defecto: 100)
 - `-u, --check-updates`: Comprobar actualizaciones
 
-Ejemplo:
-
-
 ## Advertencia
 
 Esta herramienta debe usarse solo en sistemas para los que tienes permiso explícito. El uso no autorizado de esta herramienta puede ser ilegal.
