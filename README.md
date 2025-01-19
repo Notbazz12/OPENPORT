@@ -14,8 +14,6 @@ OpenPorts es una herramienta de escaneo de puertos y detección de vulnerabilida
 ## Instalación
 
 1. Clona este repositorio:
-
-1. Clona este repositorio:
 2. git clone https://github.com/Notbazz12/OPENPORT.git
 3. Navega al directorio del proyecto:
 4.  Instala las dependencias:
