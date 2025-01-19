@@ -11,6 +11,42 @@ OpenPorts es una herramienta de escaneo de puertos y detección de vulnerabilida
 - Integración con Shodan
 - Opciones avanzadas de escaneo
 
+- ##Descripcion
+- La versión Beta 2.0 lleva OPENPORT al siguiente nivel con características avanzadas diseñadas para profesionales de la ciberseguridad y entusiastas técnicos. Estas son las mejoras y nuevas funcionalidades:
+
+Detección Avanzada de Servicios y Sistemas Operativos:
+
+Identifica automáticamente el sistema operativo (Windows, Linux, etc.) de las máquinas escaneadas.
+Captura banners de servicios con soporte para técnicas de banner grabbing.
+Soporte para Puertos UDP:
+
+Ahora puedes escanear puertos UDP críticos como DNS, NTP, y SNMP, ampliando el alcance de tus auditorías de red.
+Integración con Bases de Datos de Vulnerabilidades:
+
+Busca vulnerabilidades conocidas en tiempo real usando Exploit-DB y CVE Details.
+Genera un informe que muestra las posibles vulnerabilidades asociadas con los servicios detectados.
+Generación de Reportes Detallados:
+
+Exporta los resultados en formato PDF con tablas y gráficos visuales.
+Compatible con herramientas como matplotlib para análisis más detallado.
+Monitoreo en Tiempo Real:
+
+Introduce un modo de monitoreo continuo que detecta cambios en la red, como nuevos servicios abiertos o IPs conectadas.
+Modo Avanzado para Usuarios Expertos:
+
+Configuración personalizada de:
+Listas negras para evitar ciertos rangos de IP.
+Técnicas de evasión para evitar detecciones por IDS/IPS.
+Velocidad ajustable del escaneo.
+Optimización de Rendimiento:
+
+Mejora en la gestión de hilos para escaneos más rápidos y estables.
+Soporte para redes con grandes cantidades de hosts.
+Interfaz Más Amigable:
+
+Mejoras en el menú interactivo, con opciones explicativas y accesibles para nuevos usuarios.
+Colores optimizados para facilitar la lectura.
+
 ## Instalación
 
 1. Clona este repositorio:
