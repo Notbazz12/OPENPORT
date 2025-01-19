@@ -22,9 +22,10 @@ OpenPorts es una herramienta de escaneo de puertos y detección de vulnerabilida
 3. Navega al directorio del proyecto:
 4.  Instala las dependencias:
 
-5.  ## Uso
+5.  ## Uso python3 -m pip install --upgrade -r requirements.txt
+6.  Como usar: python3 OPENPORT.py (IP) 
 
-6.  
+7.  
 Opciones:
 - `-t, --timeout`: Tiempo de espera para la conexión (por defecto: 1 segundo)
 - `-o, --output`: Formato de salida (csv, txt, json)
