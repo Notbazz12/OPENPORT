@@ -11,10 +11,10 @@ OpenPorts es una herramienta de escaneo de puertos y detección de vulnerabilida
 - Integración con Shodan
 - Opciones avanzadas de escaneo
 
-- ##Descripcion
+- ## Descripcion
 - La versión Beta 2.0 lleva OPENPORT al siguiente nivel con características avanzadas diseñadas para profesionales de la ciberseguridad y entusiastas técnicos. Estas son las mejoras y nuevas funcionalidades:
 
-Detección Avanzada de Servicios y Sistemas Operativos:
+ Detección Avanzada de Servicios y Sistemas Operativos:
 
 Identifica automáticamente el sistema operativo (Windows, Linux, etc.) de las máquinas escaneadas.
 Captura banners de servicios con soporte para técnicas de banner grabbing.
