@@ -1,4 +1,4 @@
-# OpenPorts
+# OpenPorts beta 2.0
 
 OpenPorts es una herramienta de escaneo de puertos y detección de vulnerabilidades escrita en Python.
 
