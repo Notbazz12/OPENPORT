@@ -1,2 +1,4 @@
 requests
 pymetasploit3
+requests==2.26.0
+shodan==1.25.0
